@@ -1,0 +1,25 @@
+{
+  "config": {
+    "ImageURL": "http://www.thomasshahan.com/wp-content/uploads/galleries/post-9/Holocephala.jpg",
+    "RedirectLink": "https://www.oracle.com/"
+  },
+  "global": false,
+  "i18nresources": "TestBannerWidget",
+  "imports": [],
+  "javascript": "banner",
+  "jsEditable": true,
+  "minWidth": 1,
+  "pageTypes": [
+    "article"
+  ],
+  "source": 100,
+  "translations": [
+    {
+      "language": "en",
+      "name": "yakubouskiBanner"
+    }
+  ],
+  "version": 1,
+  "widgetFamily": "testBannerWidget",
+  "widgetType": "testBannerWidget"
+}
