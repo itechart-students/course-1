@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "TextImageURL": "URL of the banners image",
+    "LabelImageURL": "Image URL",
+    "TextRedirectLink": "Link to sourse when user clicks on the image",
+    "LabelRedirectLink": "Redirect Link",
+    "TextBannerheader": "Text under the image",
+    "LabelBannerheader": "Banner Header text"
+  }
+}

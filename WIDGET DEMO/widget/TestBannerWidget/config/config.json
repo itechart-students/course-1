@@ -3,20 +3,25 @@
     "properties": [
         {
             "id": "BannerImageURL",
-            "name": "Image URL",
+            "name": "ImageURL",
+            "helpTextResourceId": "TextImageURL",
+            "labelResourceId": "LabelImageURL",
             "type": "stringType",
-            "labelResourceId": "quoteWidgetTitle1Label",
             "defaultValue": "http://www.thomasshahan.com/wp-content/uploads/galleries/post-9/Holocephala.jpg"
         },
         {
             "id": "BannerRedirectLink",
-            "name": "Redirect Link",
+            "name": "RedirectLink",
+            "helpTextResourceId": "TextRedirectLink",
+            "labelResourceId": "LabelRedirectLink",
             "type": "stringType",
             "defaultValue": "https://www.oracle.com/"
         },
         {
             "id": "BannerText",
-            "name": "Banner header",
+            "name": "Bannerheader",
+            "helpTextResourceId": "TextBannerheader",
+            "labelResourceId": "LabelBannerheader",
             "type": "stringType",
             "defaultValue": "Test task banner-widget"
         }
