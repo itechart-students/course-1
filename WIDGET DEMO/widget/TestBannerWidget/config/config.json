@@ -1,0 +1,24 @@
+{
+    "widgetDescriptorName": "yakubouskiBanner",
+    "properties": [
+        {
+            "id": "BannerImageURL",
+            "name": "Image URL",
+            "type": "stringType",
+            "labelResourceId": "quoteWidgetTitle1Label",
+            "defaultValue": "http://www.thomasshahan.com/wp-content/uploads/galleries/post-9/Holocephala.jpg"
+        },
+        {
+            "id": "BannerRedirectLink",
+            "name": "Redirect Link",
+            "type": "stringType",
+            "defaultValue": "https://www.oracle.com/"
+        },
+        {
+            "id": "BannerText",
+            "name": "Banner header",
+            "type": "stringType",
+            "defaultValue": "Test task banner-widget"
+        }
+    ]
+}

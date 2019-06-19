@@ -1,6 +1,6 @@
 <div class="wrapperWidget">
-  <span class="widgetHeader">Test task banner-widget</span>
-  <a data-bind="attr: {href: RedirectLink}">
-    <img data-bind="attr:{src: ImageURL}">
+  <span class="widgetHeader" data-bind="text: BannerText"></span>
+  <a data-bind="attr: {href: BannerRedirectLink}">
+    <img data-bind="attr:{src: BannerImageURL}">
   </a>
 </div>
